@@ -40,8 +40,3 @@ We invite you to explore what we're doing at Eclipse Lab. Whether you're a stude
 {summary}
 
 [Read more](https://github.com/iron-eclipse/{repo.name})
-
-## Project: {repo.name}
-{summary}
-
-[Read more](https://github.com/iron-eclipse/{repo.name})
