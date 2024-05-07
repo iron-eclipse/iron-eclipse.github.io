@@ -26,18 +26,22 @@ Experimentation is at the heart of everything we do. Whether it's testing new th
 
 ## Join Us!
 
-We invite you to explore what we're doing at Eclipse Lab. Whether you're a student, a fellow researcher, or just curious about AI, there's something here for everyone. Dive in and see how you can be part of this exciting journey into the future of technology!### Hello-Eclipse
-The text is a test file in a new repository.
-[Read more](https://github.com/iron-eclipse/Hello-Eclipse)
+We invite you to explore what we're doing at Eclipse Lab. Whether you're a student, a fellow researcher, or just curious about AI, there's something here for everyone. Dive in and see how you can be part of this exciting journey into the future of technology!## Project: {repo.name}
+{summary}
 
-### Another-Test-Repo
-Summary: A new test file has been added to the repository.
-[Read more](https://github.com/iron-eclipse/Another-Test-Repo)
+[Read more](https://github.com/iron-eclipse/{repo.name})
 
-### Daybreak
-"Daybreak is a project on GitHub within the Eclipse Lab, focused on establishing an AI-driven software lab for experimentation and enjoyment."
-[Read more](https://github.com/iron-eclipse/Daybreak)
+## Project: {repo.name}
+{summary}
 
-### iron-eclipse.github.io
-"Eclipse Lab is an innovative AI research facility focused on cutting-edge AI technologies and fostering collaboration. They explore advanced AI models, experiment with cutting-edge technology, and aim to improve the interaction between humans and AI. Daybreak project, an open-source AI-driven software development initiative, promotes learning and innovation in the field. iron-eclipse.github.io researches AI integration into daily life, advanced industries, ethics, and education."
-[Read more](https://github.com/iron-eclipse/iron-eclipse.github.io)
+[Read more](https://github.com/iron-eclipse/{repo.name})
+
+## Project: {repo.name}
+{summary}
+
+[Read more](https://github.com/iron-eclipse/{repo.name})
+
+## Project: {repo.name}
+{summary}
+
+[Read more](https://github.com/iron-eclipse/{repo.name})
