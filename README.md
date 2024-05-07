@@ -27,20 +27,16 @@ Experimentation is at the heart of everything we do. Whether it's testing new th
 ## Join Us!
 
 We invite you to explore what we're doing at Eclipse Lab. Whether you're a student, a fellow researcher, or just curious about AI, there's something here for everyone. Dive in and see how you can be part of this exciting journey into the future of technology!## Project: Hello-Eclipse
-### Summary:
-The text simply states that it is a test file within a new repository.
+None
 
 [Read more](https://github.com/iron-eclipse/Hello-Eclipse)
 
 ## Project: Another-Test-Repo
-### Summary:
-The text mentions that it is another test file located in a new repository.
+None
 
 [Read more](https://github.com/iron-eclipse/Another-Test-Repo)
 
 ## Project: Daybreak
-### Daybreak Project
-
-The Daybreak project on GitHub aims to aid in understanding the setup of an AI-driven software lab for experimentation and enjoyment. It is one of the initiatives within the Eclipse Lab, focusing on experiments in AI-driven software development.
+None
 
 [Read more](https://github.com/iron-eclipse/Daybreak)
