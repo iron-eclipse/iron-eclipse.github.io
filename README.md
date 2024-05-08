@@ -63,3 +63,6 @@ Hello, this is another test file in the new repository.
 - The project is a component of the **Eclipse Lab**, which is dedicated to exploring AI-driven software development practices through various experiments.
 
 [Read more](https://github.com/iron-eclipse/Daybreak)
+
+
+[Read more in the LOG.md](./LOG.md)
